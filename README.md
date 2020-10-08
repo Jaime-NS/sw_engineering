@@ -1,2 +1,2 @@
 # sw_engineering
-Projects of the subject 'Software Engineering'
+Tasks of the subject 'Software Engineering'
